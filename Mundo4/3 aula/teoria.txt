@@ -1,0 +1,9 @@
+O carro é um sistema composto por objetos
+
+COMERNada = 
+    C = Confiabilidade
+    O = Oportuno
+    M = Manutenivel
+    E = Extensivel
+    R = Reutilizavel
+    N = Natural 

@@ -1,0 +1,18 @@
+oq é um objeto?
+oq é uma classe? Formato a ser seguido sem precisar repetir, como uma linha de produção
+oq é uma instancia? É criar um objeto por meio de uma classe (padrão)
+defina o estado de um objeto:
+
+2 Biscoitos com o mesmo formato = classe = forma
+
+Classe tem 3 sla:
+    Nomeclasse: QUal objeto vai ser formado apartir dessa classe    
+    Atributos: Caracteristicas desse objeto (tamanho, cor, sabor)
+    Métodos: coisas que esse objeto pode fazer, ou que podem fazer com ele(cozinhar(), congelar(), podeComer())
+
+
+Instanciar: Seguir o padrão da classe para criar o objeto é tipo criar o objeto
+
+Objeto: Algo material ou abstrato que é feito apartir de um modelo (classe) e pode ter caracteristicas (atributos) e comportamentos (métodos)
+
+Estado de um objeto = A todos os atributos do objeto juntos, é literalmente o estado dele e que pode mudar durante o tempo

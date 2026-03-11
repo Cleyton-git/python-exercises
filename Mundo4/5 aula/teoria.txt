@@ -1,0 +1,7 @@
+Qual a diferença entre objeto e variavel
+Como declarar uma classe 
+Como instancio um objeto a apartir de uma classe
+
+Os objetos são variaveis evoluidas 
+São variaveis que não so conseguem guardar dados mas tbm suas propias funcionalidades
+

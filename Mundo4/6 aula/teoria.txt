@@ -1,0 +1,14 @@
+Como melhorar a classe da aula anterior
+Como documentar uma classe
+Como descobrir a classe de um objeto
+Como obter o estado de um objeto
+Exemplo mais util
+
+Atributos dunder:
+    __dict__ : retorna o objeto em forma de dicionario
+    __doc__ : retorna a documentação da classe
+    __class__ : retorna a classe do objeto
+
+Metodos dunder:
+    __getstate__ : retorna o estado do objeto
+    
